@@ -1,6 +1,7 @@
 # this is a comment
 
 *.js
-modules/videos/
+NODE_Modules
+assets/videos/
 !app.js
 *.log
