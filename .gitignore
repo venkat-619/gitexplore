@@ -1,0 +1,6 @@
+# this is a comment
+
+*.js
+modules/videos/
+!app.js
+*.log
