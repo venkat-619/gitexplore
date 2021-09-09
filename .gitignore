@@ -5,3 +5,4 @@ NODE_Modules
 assets/videos/
 !app.js
 *.log
+*.php
