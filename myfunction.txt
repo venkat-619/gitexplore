@@ -1,3 +1,5 @@
 oneFunction - I have added a very imortant function here.
 TwoFunction - I have added another very imortant function here.
 ThreeFunction - I have added unnecessary function.
+
+added new chart function into it.
