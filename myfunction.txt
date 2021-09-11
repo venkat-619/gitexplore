@@ -4,4 +4,4 @@ ThreeFunction - I have added unnecessary function.
 
 added new chart function into it.
 
-i have added some logour features with sone y.
+i added login feature with x input here
